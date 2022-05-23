@@ -1,0 +1,67 @@
+body {
+  background-color: #fff9c4;
+  background-attachment: fixed;
+
+
+}
+h1 {
+  color: #f43;
+  font-size: xx-large;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: red
+
+
+}
+header {
+
+}
+section {
+  float: left;
+  width: 100%;
+}
+.btn-wsp{
+  position: fixed;
+  width: 55px;
+  bottom: 30px;
+  right: 30px;
+border-radius: 50px;
+}
+nav {
+text-align: center;
+font-style: italic;
+}
+h2 {
+  color: #f43;
+  font-size: xx-large;
+  text-align: center;
+  text-decoration: underline;
+}
+
+ h3 {
+   color: #f43;
+   font-size: x-large;
+   text-align: center;
+   text-decoration: underline;
+ }
+ h4 {
+   color: #f43;
+   font-size: large;
+   text-align: left;
+   text-decoration: underline;
+
+ }
+ .btn-ins{
+   position: static;
+   width: 55px;
+   bottom: 30px;
+   right: 30px;
+ border-radius: 50px;
+ }
+.btn-fb {
+  position: static;
+  width: 55px;
+  bottom: 30px;
+  right: 30px;
+border-radius: 50px;
+}
